@@ -1,2 +1,2 @@
-# Calculator
-Simple Calculator Application Developed using Android Studio with JAVA language 
+# Healthcare
+Simple Healthcare Application Developed using Android Studio with JAVA language 
